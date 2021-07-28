@@ -1,0 +1,38 @@
+.ford {
+    height: 500px;
+    width: 400px;
+}
+.ford:hover {
+    background-color: chartreuse;
+    height: 500px;
+    width: 400px;
+    
+}
+.svj {
+    height: 500px;
+    width: 500px;
+}
+.svj:hover {
+    background-color: green;
+    height: 500px;
+    width: 500px;
+}
+.mclaren {
+    height: 500px;
+    width: 400px;
+}
+.mclaren:hover {
+    background-color: gold;
+    height: 500px;
+    width: 400px;
+}
+body {
+    background-image: url(../images/bg.gif);
+}
+h1 {
+    color: orangered;
+    text-align: center;
+}
+h1:hover {
+    color: yellow;
+}
