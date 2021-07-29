@@ -1,0 +1,17 @@
+.page1 {
+    border: 2px solid red;
+    background-color: #BCFFB9;
+}
+.im {
+    border: 2px solid blueviolet;
+    background-color: #F5FDB0;
+
+}
+.im2 {
+    border: 2px solid orange;
+    background-color: aqua;
+
+}
+div {
+    text-align: center;
+}
