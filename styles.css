@@ -1,0 +1,54 @@
+body {
+    background-image: url('./images/bg2.gif');;
+}
+hr {
+    border-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 50%;
+}
+h1 {
+    color: white;
+    font-family: Courier;
+}
+h2 {
+    color: white;
+    text-align: center;
+}
+h3 {
+    text-align: center;
+    font-size: 28px;
+}
+p {
+    color: white;
+}
+li {
+    color: white;
+    margin-left: 45%;
+    font-size: 25px;
+}
+td {
+    color: white;
+}
+.table2 {
+    margin-left: 38%;
+    font-size: 20px;
+}
+.img1 {
+    width: 50%;
+}
+.di1 {
+    margin-left: 32%;
+}
+a:visited {
+    background-color: aqua;
+}
+  
+a:hover {
+    background-color: yellow;
+}
+  
+a:active {
+    background-color: hotpink;
+}
