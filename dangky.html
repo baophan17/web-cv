@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
     <title>Đăng ký</title>
     <style>
         h1 {text-align: center;}
@@ -12,16 +13,16 @@
 <body>
     <h1><strong>Đăng ký</strong></h1>
     <hr>
-    <form>
+    <div class="input1">
         <label><strong>Họ và tên: </strong></label>
         <input type="text"><br>
         <label><strong>Ngày sinh: </strong></label>
         <input type="date"><br>
         <label><strong>Giới tính: </strong></label>
         <label><strong>Nam</strong></label>
-        <input type="checkbox">
+        <input type="radio" name="gender" id="">
         <label><strong>Nữ</strong></label>
-        <input type="checkbox"><br>
+        <input type="radio" name="gender" id=""><br>
         <label><strong>Email: </strong></label>
         <input type="email"><br>
         <label><strong>Mật khẩu: </strong></label>
@@ -30,7 +31,7 @@
         <input type="password"><br>
         <input type="checkbox">
         <label>Tôi đồng ý với điều khoản và yêu cầu</label>
-    </form>
+    </div>
     <h2><a href="login.html">Đăng ký</a></h2>
     
 </body>

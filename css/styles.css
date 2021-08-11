@@ -1,0 +1,9 @@
+body {
+    background-color: grey;
+}
+.input1 {
+    height: 300px;
+    width: 500px;
+    background-color: aqua;
+    margin-left: 200px;
+}
